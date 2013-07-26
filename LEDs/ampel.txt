@@ -1,0 +1,9 @@
+Used GPIO-Pins (Board):
+
+03: switch
+
+11: red LED
+13: yellow LED
+15: green LED
+
+06: ground
